@@ -228,3 +228,8 @@ This is a collection of useful Steganography links:
 The following example media files are included in this repository:
 - Demo image (JPG, PNG): https://pixabay.com/p-1685092
 - Demo sound file (MP3, WAV): https://upload.wikimedia.org/wikipedia/commons/c/c5/Auphonic-wikimedia-test-stereo.ogg --- By debuglevel (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+
+
+Use with command:
+chmod +x run.sh
+./run.sh
